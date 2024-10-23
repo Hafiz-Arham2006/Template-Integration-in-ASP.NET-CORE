@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\views\\nav_footer\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\views\\nav_footer\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|e:\\work\\asp.net core\\template integration\\template_integration\\template_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BC1F8-5169-409D-A18B-0E8E3E1E5FC7}|Template_Integration\\Template_Integration.csproj|solutionrelative:template_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Template_Integration\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Template_Integration\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T20:49:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "portfolio.cshtml",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\Home\\portfolio.cshtml",
+              "RelativeDocumentMoniker": "Template_Integration\\Views\\Home\\portfolio.cshtml",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\Home\\portfolio.cshtml",
+              "RelativeToolTip": "Template_Integration\\Views\\Home\\portfolio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T20:43:45.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Program.cs",
+              "RelativeDocumentMoniker": "Template_Integration\\Program.cs",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Program.cs",
+              "RelativeToolTip": "Template_Integration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:39:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\nav_footer\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Template_Integration\\Views\\nav_footer\\_Layout.cshtml",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\nav_footer\\_Layout.cshtml",
+              "RelativeToolTip": "Template_Integration\\Views\\nav_footer\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T20:33:58.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Template_Integration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Template_Integration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T20:32:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Template_Integration\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Work\\ASP.NET CORE\\Template Integration\\Template_Integration\\Template_Integration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Template_Integration\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:32:03.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
